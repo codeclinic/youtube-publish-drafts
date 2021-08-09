@@ -5,12 +5,12 @@
     // ~ GLOBAL CONFIG
     // -----------------------------------------------------------------
     const MODE = 'publish_drafts'; // 'publish_drafts' / 'sort_playlist';
-    const DEBUG_MODE = true; // true / false, enable for more context
+    const DEBUG_MODE = false; // true / false, enable for more context
     // -----------------------------------------------------------------
     // ~ PUBLISH CONFIG
     // -----------------------------------------------------------------
     const MADE_FOR_KIDS = false; // true / false;
-    const VISIBILITY = 'Public'; // 'Public' / 'Private' / 'Unlisted'
+    const VISIBILITY = 'Unlisted'; // 'Public' / 'Private' / 'Unlisted'
     // -----------------------------------------------------------------
     // ~ SORT PLAYLIST CONFIG
     // -----------------------------------------------------------------
